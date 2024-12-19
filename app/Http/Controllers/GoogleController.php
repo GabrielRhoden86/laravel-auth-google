@@ -12,7 +12,6 @@ use Illuminate\Support\Facades\Auth;
 class GoogleController extends Controller
 
 {
-
     public function redirectToGoogle()
 
     {
